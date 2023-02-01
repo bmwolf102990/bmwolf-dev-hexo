@@ -61,6 +61,9 @@ layout: about
     <label>
         <input type="checkbox" disabled/> <a href="#">Lisa Desjardins</a>
     </label>
+    <label>
+        <input type="checkbox" disabled/> <a href="#">Steven Rinella</a>
+    </label>
 </div>
 
 <div class="text-center">
