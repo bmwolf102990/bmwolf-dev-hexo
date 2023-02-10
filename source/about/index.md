@@ -8,76 +8,61 @@ layout: about
 </div>
 
 <div style="display:grid;
-  grid-template-columns:repeat(3, 1fr);
+  grid-template-columns:repeat(4, 1fr);
   gap:10px;
   grid-auto-rows:minmax(33px, auto);
   font-size: 15px;
 ">
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Daniel Rigmaiden</a>
+        <input type="checkbox" disabled/> <a href="#">Daniel Rigmaiden</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Sylvia Earle</a>
+        <input type="checkbox" disabled/> <a href="#">Sylvia Earle</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Boyan Slat</a>
+        <input type="checkbox" disabled/> <a href="#">Boyan Slat</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Cara Santa Maria</a>
+        <input type="checkbox" disabled/> <a href="#">Cara Santa Maria</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Edward Snowden</a>
+        <input type="checkbox" disabled/> <a href="#">Edward Snowden</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Megan Rapinoe</a>
+        <input type="checkbox" disabled/> <a href="#">Megan Rapinoe</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Elon Musk</a>
+        <input type="checkbox" disabled/> <a href="#">Elon Musk</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Jane Goodall</a>
+        <input type="checkbox" disabled/> <a href="#">Jane Goodall</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Neil DeGrasse Tyson</a>
+        <input type="checkbox" disabled/> <a href="#">Neil DeGrasse Tyson</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Brie Larson</a>
+        <input type="checkbox" disabled/> <a href="#">Brie Larson</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Malcolm Gladwell</a>
+        <input type="checkbox" disabled/> <a href="#">Malcolm Gladwell</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Gwendoline Christie</a>
+        <input type="checkbox" disabled/> <a href="#">Gwendoline Christie</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Graham Hancock</a>
+        <input type="checkbox" disabled/> <a href="#">Graham Hancock</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">J.K. Rowling</a>
+        <input type="checkbox" disabled/> <a href="#">J.K. Rowling</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Aaron Mahnke</a>
+        <input type="checkbox" disabled/> <a href="#">Aaron Mahnke</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Lisa Desjardins</a>
+        <input type="checkbox" disabled/> <a href="#">Lisa Desjardins</a>
     </label>
     <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Steven Rinella</a>
-    </label>
-    <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Samin Nosrat</a>
-    </label>
-    <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Michael Pollan</a>
-    </label>
-    <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Shafi Goldwasser</a>
-    </label>
-    <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled checked/> <a href="#" style="color:lightcoral;text-decoration:line-through;">Anthony Bourdain</a>
-    </label>
-    <label>
-        <input type="checkbox" style="height:15px;width:15px;" disabled checked/> <a href="#" style="color:lightcoral;text-decoration:line-through;">Ruth Bader Ginsburg</a>
+        <input type="checkbox" disabled/> <a href="#">Steven Rinella</a>
     </label>
 </div>
 
