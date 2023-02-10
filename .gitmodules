@@ -1,6 +1,6 @@
 [submodule "themes/fluid"]
 	path = themes/fluid
-	url = git@github.com:fluid-dev/hexo-theme-fluid.git
+	url = https://github.com/bmwolf102990/hexo-theme-fluid
 [submodule "themes/landscape"]
 	path = themes/landscape
-	url = git@github.com:hexojs/hexo-theme-landscape.git
+	url = https://github.com/bmwolf102990/hexo-theme-landscape
