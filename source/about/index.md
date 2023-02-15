@@ -73,12 +73,12 @@ layout: about
     <label>
         <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Shafi Goldwasser</a>
     </label>
-    <label>
+    <!-- <label>
         <input type="checkbox" style="height:15px;width:15px;" disabled checked/> <a href="#" style="color:lightcoral;text-decoration:line-through;">Anthony Bourdain</a>
     </label>
     <label>
         <input type="checkbox" style="height:15px;width:15px;" disabled checked/> <a href="#" style="color:lightcoral;text-decoration:line-through;">Ruth Bader Ginsburg</a>
-    </label>
+    </label> -->
 </div>
 
 <div class="text-center">
