@@ -3,16 +3,29 @@ title: About
 date: 2023-01-21 13:17:35
 layout: about
 ---
-<div class="text-center">
+<style>
+    #people-meet {
+        display:grid;
+        grid-template-columns:repeat(4, 1fr);
+        gap:0px;
+        grid-auto-rows:minmax(40px, auto);
+        font-size:15px;
+    }
+    @media screen and (max-width:1300px) {
+        #people-meet-hdr {
+            display:none;
+        }
+        #people-meet {
+            display:none;
+        }
+    }
+</style>
+
+<div id="people-meet-hdr" class="text-center">
   <h2>People I'd Like To Meet</h2>
 </div>
 
-<div style="display:grid;
-  grid-template-columns:repeat(3, 1fr);
-  gap:10px;
-  grid-auto-rows:minmax(33px, auto);
-  font-size: 15px;
-">
+<div id="people-meet">
     <label>
         <input type="checkbox" style="height:15px;width:15px;" disabled/> <a href="#">Daniel Rigmaiden</a>
     </label>
