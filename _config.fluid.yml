@@ -103,11 +103,11 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: sftp
-  host: <host>
-  user: <user>
-  pass: <password>
-  remotePath: [remote path]
-  port: [port]
-  privateKey: [path/to/privateKey]
-  passphrase: [passphrase]
-  agent: [path/to/agent/socket]
+  host: premium198.web-hosting.com
+  user: bmwotxxh
+  pass: MQCWoI2spNDd
+  remotePath: [/]
+  port: [21098]
+  privateKey: [E:\_ssh\id_rsa]
+  passphrase: [SSLSecureEncrypt]
+  agent: [$SSH_AUTH_SOCK]
